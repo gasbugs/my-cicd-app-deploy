@@ -18,7 +18,7 @@ spec:
         app: my-node
     spec:
       containers:
-      - image: 445567110488.dkr.ecr.us-east-1.amazonaws.com/my-cicd-app:latest
+      - image: 445567110488.dkr.ecr.us-east-1.amazonaws.com/my-cicd-app:2025-02-15.20.56.29
         name: my-cicd-app-deploy
 ---
 apiVersion: v1
